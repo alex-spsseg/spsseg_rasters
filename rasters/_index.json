@@ -1,0 +1,21 @@
+[
+ {
+  "id": "knca_visionplanoverlay_20260429",
+  "title": "KNCA_VisionPlanOverlay_20260429",
+  "date": "",
+  "tiles": "rasters/knca_visionplanoverlay_20260429/{z}/{x}/{y}.webp",
+  "format": "webp",
+  "source": "KNCA_VisionPlanOVerlay_20.tif",
+  "added": "2026-11-09",
+  "minzoom": 12,
+  "maxzoom": 20,
+  "bounds": [
+   -123.099885,
+   47.08893,
+   -123.083807,
+   47.095517
+  ],
+  "count": 1667,
+  "mb": 4.9
+ }
+]
